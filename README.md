@@ -1,4 +1,4 @@
-# Magikarp: Home
+# Magikarp: 
 
 In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.
 
